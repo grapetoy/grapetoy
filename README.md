@@ -16,5 +16,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grapetoy&show_icons=true&locale=en" alt="grapetoy" /></p>
 
-<img style="border-radius:20%;" src="https://discord.c99.nl/widget/theme-1/839627145445376030.png" alt="Discord Widget_1">
+<img style="radius:20%;" src="https://discord.c99.nl/widget/theme-1/839627145445376030.png" alt="Discord Widget_1">
 <img src="https://lanyard.cnrad.dev/api/839627145445376030?theme=light&bg=809cef&borderRadius=30px",alt="Discord Widget_2">
