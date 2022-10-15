@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm grapetoy</h1>
 <h3 align="center">Student developer(but Noob) in Korea🇰🇷</h3>
 
-- 🌱 I’m currently learning **Disnake**
+- 🌱 I’m currently learning **Discord.js**
 
 - 📫 How to reach me **<a href="mailto:jjgamerbg@gmail.com">jjgamerbg@gmail.com**</a>
 
